@@ -15,6 +15,8 @@
   # Salesforce Associate Certificate
   <img width="577" alt="image" src="https://github.com/swatik1/SF-Certifications/assets/35999271/0088c657-fa79-42b8-9fcf-992e15b8a663">
   
+  # Salesforce AI Associate Certificate
+  Cert5348907_AIAssociate_20241130.pdf
 
     
 
